@@ -1,0 +1,24 @@
+/* Write your CSS here */
+.main-container {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.heading {
+  font-family: 'Lobster';
+  font-size: 45px;
+}
+
+.list-container {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.list_language_Container {
+  list-style: none;
+  display: flex;
+
+  justify-content: space-between;
+}

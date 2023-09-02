@@ -1,0 +1,10 @@
+/* Write your CSS here */
+.img {
+  height: 100px;
+  width: 100px;
+}
+
+.repoName {
+  font-family: 'roboto';
+  font-size: 24px;
+}
